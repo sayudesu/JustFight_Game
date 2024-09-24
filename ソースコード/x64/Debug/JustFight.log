@@ -1,0 +1,23 @@
+﻿  Player.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(30,34): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(31,37): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(32,36): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(33,43): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(34,40): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(35,43): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(36,42): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(37,33): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(38,37): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(39,32): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(40,25): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Object\Player\Player.cpp(41,36): warning C4244: '=': 'const float' から 'int' への変換です。データが失われる可能性があります。
+  SceneMain.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\fko2247032\Documents\GitHub\JustFight\Scene\SceneMain.cpp(23,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+C:\Users\fko2247032\Documents\GitHub\JustFight\UI\UIDrawer.h(5,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+C:\Users\fko2247032\Documents\GitHub\JustFight\UI\UIDrawer.h(6,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  SceneTitle.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+  JustFight.vcxproj -> C:\Users\fko2247032\Documents\GitHub\JustFight\x64\Debug\JustFight.exe
